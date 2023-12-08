@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🐱‍🏍 DiogoV10
 
-<!--
-**DiogoV10/DiogoV10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`IT Systems Management and Programming Technician`** 
 
-Here are some ideas to get you started:
+I'm a college student currently studying Game Development.<br>
+I've already followed a IT course at my highscholl, ence why the specification above.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📚 Experience
+<img align="left" alt="Tools" style="padding-right:10;" src="https://skillicons.dev/icons?i=github,unity,visualstudio,cs,c,cpp,androidstudio,powershell" /> <br><br>
+
+---
+
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogov10&theme=dark&show_icons=true)
