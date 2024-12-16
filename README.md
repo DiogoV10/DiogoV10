@@ -1,9 +1,9 @@
 # 🐱‍🏍 DiogoV10
 
-**`IT Systems Management and Programming Technician`** 
+**`Game Developer | IT Systems Management and Programming Technician`** 
 
-I'm a college student currently studying Game Development.<br>
-I've already followed a IT course at my highscholl, ence why the specification above.
+I'm a passionate Game Developer with a degree in Game Development and a strong foundation in IT Systems Management and Programming, which I pursued during high school.<br>
+I thrive on creating engaging and immersive experiences through code and design.
 
 ---
 ### 📚 Experience
