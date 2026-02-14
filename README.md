@@ -11,4 +11,4 @@ I thrive on creating engaging and immersive experiences through code and design.
 
 ---
 
-//![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogov10&theme=dark&show_icons=true)
+<!-- ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogov10&theme=dark&show_icons=true) -->
