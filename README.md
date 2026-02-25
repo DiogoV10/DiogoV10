@@ -3,17 +3,13 @@
 **`Game Developer | Software Developer`** 
 
 I’m a software developer with a Bachelor's Degree in Digital Game Development, based in Portugal.
+I mainly work with Unity (C#) but I also have experience with web development, mostly frontend.
 
 ---
-## Tech Stack
+### Tech Stack
 
-### Core
-C#, Unity
-
-### Familiar With
-Python, Angular, Flutter, React
-
-### Web & Tools
-HTML, CSS, JavaScript, Tailwind CSS, Git
+- C#, Unity
+- Python, Angular, Flutter, React
+- HTML, CSS, JavaScript, Tailwind CSS, Git
 
 ---
