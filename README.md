@@ -1,9 +1,8 @@
 # 🐱‍🏍 DiogoV10
 
-**`Game Developer | IT Systems Management and Programming Technician`** 
+**`Game Developer | Software Developer`** 
 
-I'm a passionate Game Developer with a degree in Game Development and a strong foundation in IT Systems Management and Programming, which I pursued during high school.<br>
-I thrive on creating engaging and immersive experiences through code and design.
+I’m a software developer with a Bachelor's Degree in Digital Game Development.
 
 ---
 ### 📚 Experience
