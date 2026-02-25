@@ -12,4 +12,3 @@ I mainly work with Unity (C#) but I also have experience with web development, m
 - Python, Angular, Flutter, React
 - HTML, CSS, JavaScript, Tailwind CSS, Git
 
----
